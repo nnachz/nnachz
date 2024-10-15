@@ -1,6 +1,6 @@
 
 <img src="Assets/swift-color.svg" alt="Girl in a jacket" width="100" height="150">
-![](https://komarev.com/ghpvc/?username=nnachz)
+https://komarev.com/ghpvc/?username=nnachz
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
