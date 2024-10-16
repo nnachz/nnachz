@@ -3,10 +3,13 @@
 ### LANGUAGES & TOOLS
 
 ### Languages & Tools
-<img src="Assets/swift-color.svg" alt="Girl in a jacket" width="70" height="70">
-<img src="Assets/swift-color.svg" alt="Girl in a jacket" width="70" height="70">
-<img src="Assets/swift-color.svg" alt="Girl in a jacket" width="70" height="70">
-<img src="Assets/swift-color.svg" alt="Girl in a jacket" width="70" height="70">
+<p align="left">
+  <img src="Assets/swift-color.svg" alt="Girl in a jacket" width="70" height="70">
+  <img src="Assets/swift-color.svg" alt="Girl in a jacket" width="70" height="70">
+  <img src="Assets/swift-color.svg" alt="Girl in a jacket" width="70" height="70">
+  <img src="Assets/swift-color.svg" alt="Girl in a jacket" width="70" height="70">
+</p>
+
 
 <img src="https://komarev.com/ghpvc/?username=nnachz">
 
