@@ -3,7 +3,7 @@
 ### LANGUAGES & TOOLS
 
 ### Languages & Tools
-<img src="Assets/swift-color.svg" alt="Girl in a jacket" width="100" height="150">
+<img src="Assets/swift-color.svg" alt="Girl in a jacket" width="70" height="70">
 <img src="https://komarev.com/ghpvc/?username=nnachz">
 
 <div align="center">
