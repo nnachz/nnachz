@@ -5,9 +5,10 @@
 ### Languages & Tools
 <p align="left">
   <img src="Assets/swift-color.svg" alt="Girl in a jacket" width="70" height="70">
-  <img src="Assets/swift-color.svg" alt="Girl in a jacket" width="70" height="70">
-  <img src="Assets/swift-color.svg" alt="Girl in a jacket" width="70" height="70">
-  <img src="Assets/swift-color.svg" alt="Girl in a jacket" width="70" height="70">
+  <img src="Assets/uikit-color.svg" alt="Girl in a jacket" width="70" height="70">
+  <img src="Assets/firebase-color.svg" alt="Girl in a jacket" width="70" height="70">
+  <img src="Assets/cocoapods-color.svg" alt="Girl in a jacket" width="70" height="70">
+  <img src="Assets/xcode-color.svg" alt="Girl in a jacket" width="70" height="70">
 </p>
 
 
